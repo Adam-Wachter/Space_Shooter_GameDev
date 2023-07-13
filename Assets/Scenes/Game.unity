@@ -2185,7 +2185,7 @@ GameObject:
   - component: {fileID: 556669619}
   - component: {fileID: 556669618}
   m_Layer: 5
-  m_Name: LifeSprites
+  m_Name: LifeIcons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
